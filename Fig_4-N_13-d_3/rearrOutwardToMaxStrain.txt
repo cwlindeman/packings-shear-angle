@@ -1,0 +1,181 @@
+angle	too_far	unstable	rearrs
+0.0	False	False	0.038
+1.0	False	False	0.037	0.099
+2.0	False	False	0.036	0.097
+3.0	False	False	0.036	0.096
+4.0	False	False	0.035	0.095
+5.0	False	False	0.035	0.095
+6.0	False	False	0.034	0.094
+7.0	False	False	0.034	0.094
+8.0	False	False	0.033	0.094
+9.0	False	False	0.033	0.093
+10.0	False	False	0.032	0.094
+11.0	False	False	0.032	0.094
+12.0	False	False	0.032	0.094
+13.0	False	False	0.032	0.095
+14.0	False	False	0.032	0.095
+15.0	False	False	0.031	0.096
+16.0	False	False	0.031	0.097
+17.0	False	False	0.031	0.098
+18.0	False	False	0.031
+19.0	False	False	0.031
+20.0	False	False	0.031
+21.0	False	False	0.032
+22.0	False	False	0.032
+23.0	False	False	0.032
+24.0	False	False	0.032
+25.0	False	False	0.032
+26.0	False	False	0.033
+27.0	False	False	0.033
+28.0	False	False	0.034
+29.0	False	False	0.034
+30.0	False	False	0.035
+31.0	False	False	0.035
+32.0	False	False	0.036
+33.0	True	False
+34.0	True	False
+35.0	True	False
+36.0	True	False
+37.0	True	False
+38.0	True	False
+39.0	True	False
+40.0	True	False
+41.0	True	False
+42.0	True	False
+43.0	True	False
+44.0	True	False
+45.0	True	False
+46.0	True	False
+47.0	True	False
+48.0	True	False
+49.0	True	False
+50.0	True	False
+51.0	True	False
+52.0	True	False
+53.0	False	False	0.098
+54.0	False	False	0.098
+55.0	False	False	0.098
+56.0	False	False	0.099
+57.0	True	False
+58.0	True	False
+59.0	True	False
+60.0	True	False
+61.0	True	False
+62.0	True	False
+63.0	True	False
+64.0	True	False
+65.0	True	False
+66.0	True	False
+67.0	True	False
+68.0	False	False	0.099
+69.0	False	False	0.097
+70.0	False	False	0.094
+71.0	False	False	0.092
+72.0	False	False	0.091
+73.0	False	False	0.089
+74.0	False	False	0.088
+75.0	False	False	0.087
+76.0	False	False	0.086
+77.0	False	False	0.085
+78.0	False	False	0.085
+79.0	False	False	0.085
+80.0	False	False	0.085
+81.0	False	False	0.085
+82.0	False	False	0.086	0.098
+83.0	False	False	0.085	0.096
+84.0	False	False	0.083	0.095
+85.0	False	False	0.082	0.093
+86.0	False	False	0.083	0.092
+87.0	False	False	0.084	0.09
+88.0	False	False	0.085	0.089
+89.0	False	False	0.086	0.088
+90.0	False	False	0.087
+91.0	False	False	0.088
+92.0	False	False	0.089
+93.0	False	False	0.09
+94.0	False	False	0.092
+95.0	False	False	0.093
+96.0	False	False	0.095
+97.0	False	False	0.096
+98.0	False	False	0.098
+99.0	True	False
+100.0	True	False
+101.0	True	False
+102.0	True	False
+103.0	True	False
+104.0	True	False
+105.0	True	False
+106.0	True	False
+107.0	True	False
+108.0	True	False
+109.0	True	False
+110.0	True	False
+111.0	True	False
+112.0	True	False
+113.0	True	False
+114.0	True	False
+115.0	True	False
+116.0	True	False
+117.0	True	False
+118.0	True	False
+119.0	False	False	0.099
+120.0	False	False	0.096
+121.0	False	False	0.096
+122.0	False	False	0.097
+123.0	False	False	0.05	0.097
+124.0	True	False
+125.0	True	False
+126.0	True	False
+127.0	True	False
+128.0	True	False
+129.0	True	False
+130.0	True	False
+131.0	True	False
+132.0	True	False
+133.0	False	False	0.087
+134.0	False	False	0.088
+135.0	False	False	0.089
+136.0	False	False	0.09
+137.0	False	False	0.091
+138.0	False	False	0.092
+139.0	False	False	0.093
+140.0	False	False	0.095
+141.0	False	False	0.097
+142.0	False	False	0.098
+143.0	True	False
+144.0	True	False
+145.0	True	False
+146.0	True	False
+147.0	True	False
+148.0	False	False	0.098
+149.0	False	False	0.094
+150.0	False	False	0.097
+151.0	False	False	0.097
+152.0	False	False	0.097
+153.0	False	False	0.096
+154.0	False	False	0.095
+155.0	False	False	0.094
+156.0	False	False	0.093
+157.0	False	False	0.092
+158.0	False	False	0.091
+159.0	False	False	0.09
+160.0	False	False	0.089
+161.0	False	False	0.088
+162.0	False	False	0.087
+163.0	False	False	0.083
+164.0	False	False	0.077
+165.0	False	False	0.072
+166.0	False	False	0.068
+167.0	False	False	0.064
+168.0	False	False	0.06
+169.0	False	False	0.057
+170.0	False	False	0.054
+171.0	False	False	0.051
+172.0	False	False	0.049
+173.0	False	False	0.047
+174.0	False	False	0.045
+175.0	False	False	0.044
+176.0	False	False	0.042
+177.0	False	False	0.041
+178.0	False	False	0.04
+179.0	False	False	0.039
